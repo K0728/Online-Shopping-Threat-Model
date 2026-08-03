@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "2026-08-03",
+  "summary": {
+    "title": "Online Shopping System",
+    "owner": "Kunal Singh",
+    "description": "Threat model for an Online Shopping System using STRIDE methodology.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Ramanpreet Kaur",
+    "threatTop": 0
+  }
+}
