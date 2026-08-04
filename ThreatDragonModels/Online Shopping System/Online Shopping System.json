@@ -40,6 +40,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 1,
             "ports": {
               "groups": {
                 "top": {
@@ -123,7 +124,6 @@
               ]
             },
             "id": "26934e7b-95ad-4e7f-a007-d14b6b954e16",
-            "zIndex": 1,
             "data": {
               "type": "tm.Actor",
               "name": "Customer",
@@ -157,6 +157,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 2,
             "ports": {
               "groups": {
                 "top": {
@@ -240,7 +241,6 @@
               ]
             },
             "id": "745719cd-2868-4c57-9378-4dcc8497a988",
-            "zIndex": 2,
             "data": {
               "type": "tm.Process",
               "name": "Web\nBrowser",
@@ -277,6 +277,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 3,
             "ports": {
               "groups": {
                 "top": {
@@ -360,7 +361,6 @@
               ]
             },
             "id": "77b0fb1e-b75a-4fa1-b504-cb909e5dd03f",
-            "zIndex": 3,
             "data": {
               "type": "tm.Process",
               "name": "Web \nServer",
@@ -397,6 +397,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 4,
             "ports": {
               "groups": {
                 "top": {
@@ -480,7 +481,6 @@
               ]
             },
             "id": "617e0a08-c351-4888-8a1e-a2d1e113ce5e",
-            "zIndex": 4,
             "data": {
               "type": "tm.Process",
               "name": "Authentication\nServer",
@@ -520,6 +520,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 5,
             "ports": {
               "groups": {
                 "top": {
@@ -603,7 +604,6 @@
               ]
             },
             "id": "d3d85e95-86d1-4330-ae43-2d2a7c62c004",
-            "zIndex": 5,
             "data": {
               "type": "tm.Store",
               "name": "DataBase",
@@ -641,6 +641,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 6,
             "ports": {
               "groups": {
                 "top": {
@@ -724,7 +725,6 @@
               ]
             },
             "id": "26c70bd0-4748-4f8a-b8aa-83d55376eded",
-            "zIndex": 6,
             "data": {
               "type": "tm.Process",
               "name": "Payment\nGateway",
