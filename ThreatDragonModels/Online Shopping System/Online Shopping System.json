@@ -1058,7 +1058,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "Payment Request",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -1072,7 +1072,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "Data Flow"
+              "Payment Request"
             ],
             "id": "9b012e0a-f9b8-49a2-b138-00ab752517a3",
             "source": {
@@ -1087,6 +1087,10 @@
               {
                 "x": 150,
                 "y": 313
+              },
+              {
+                "x": 150,
+                "y": 340
               }
             ]
           },
